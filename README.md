@@ -1,14 +1,21 @@
 # pokemon
-포트폴리오4 - 포켓몬
+Description
+포켓몬스터(1세대) 중 6마리를 고르는 사이트
 
-Language -
-React / Redux tool kit 
+Language / Library
+React redux-toolkit react-bootstrap
 
-Function -
-1. Store(redux)를 활용한 기존 데이터 활용 및 데이터 입력, 수정 및 삭제 기능
-2. React-Bootstrap 을 활용한 Table 구축
-3. 각각의 포켓몬이 가지고 있는 속성(최소 1가지~ 최대 3가지)에 대한 필터 기능 
+Main Function
+ㆍreact-bootstrap를 사용하여 테이블형식의 구조 구현
 
-Description -
-1세대 포켓몬 데이터를 store에 보관
-사용자가 포켓몬 (최소 1마리 ~ 최대 6마리) 선택 후 이름과 함께 기록하는 간단한 페이지 
+ㆍredux-toolkit 내 데이터 핸들링 구현
+
+ㆍ포켓몬 속성에 따른 필터 기능 구현
+
+What I learned
+ㆍReact 설치 및 사용법 그리고 react 내 다양한 기능 습득
+
+ㆍredux-toolkit 설치 및 사용법 습득
+
+Consideration
+ㆍ다양한 프로젝트를 많이 경험을 해서 나의 부족한 점과 내가 필요한 부분을 파악해야겠다.
